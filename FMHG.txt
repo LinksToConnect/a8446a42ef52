@@ -1,0 +1,5 @@
+//profile-title: base64:FMHG
+//profile-update-interval: 24
+//subscription-userinfo: upload=0; download=72; total=175; expire=120
+
+vmess://ewogICAgInYiOiAyLAogICAgInBzIjogIkNB8J+HqPCfh6YiLAogICAgImFkZCI6ICJjYW5hZGEudjJycy5vbmxpbmUiLAogICAgInBvcnQiOiAiNDIzMjYiLAogICAgImlkIjogImNkODQ2NjViLTRiY2UtNDA4Mi05ZjBiLWIxYzFlNjA0MDUwNCIsCiAgICAiYWlkIjogMCwKICAgICJob3N0IjogInYycnM0MjMyNmlzLmRpdmFyY2RuLmNvbSIsCiAgICAicGF0aCI6ICIvIiwKICAgICJ0bHMiOiAibm9uZSIsCiAgICAidHlwZSI6ICJodHRwIiwKICAgICJuZXQiOiAidGNwIgp9
