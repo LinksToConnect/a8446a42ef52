@@ -23,3 +23,13 @@ vless://b7452273-5027-43ae-8eeb-d1979a095f04@buff.rohidden.com:25631?encryption=
 #warp://auto?ifp=5-10&ifps=40-100&ifpd=10-20#Warp_5-10_40-100_10-20
 #warp://auto?ifp=5-10&ifps=40-100&ifpd=30-50#Warp_5-10_40-100_30-50
 #warp://auto?ifp=5-10&ifps=40-100&ifpd=300-500#Warp_5-10_40-100_300-500
+
+
+vless://b7452273-5027-43ae-8eeb-d1979a095f04@kush.rohidden.com:35110?encryption=none&security=none&fp=android&type=tcp&headerType=http#FI%F0%9F%87%AB%F0%9F%87%AE
+
+vless://b7452273-5027-43ae-8eeb-d1979a095f04@ecorp.rohidden.com:22111?encryption=none&security=none&fp=android&type=tcp&headerType=http#GE%F0%9F%87%A9%F0%9F%87%AA
+
+
+vless://b7452273-5027-43ae-8eeb-d1979a095f04@fine.rohidden.com:22111?encryption=none&security=none&fp=android&type=tcp&headerType=http#PL%F0%9F%87%B5%F0%9F%87%B1
+
+vless://b7452273-5027-43ae-8eeb-d1979a095f04@buff.rohidden.com:25631?encryption=none&security=none&fp=android&type=tcp&headerType=http#US%F0%9F%87%BA%F0%9F%87%B8
