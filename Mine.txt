@@ -1,11 +1,84 @@
-vless://b7452273-5027-43ae-8eeb-d1979a095f04@kush.rohidden.com:35110?encryption=none&security=none&fp=android&type=tcp&headerType=http#FI%F0%9F%87%AB%F0%9F%87%AE
 
-vless://b7452273-5027-43ae-8eeb-d1979a095f04@ecorp.rohidden.com:22111?encryption=none&security=none&fp=android&type=tcp&headerType=http#GE%F0%9F%87%A9%F0%9F%87%AA
+Daily V2ray, [8/30/2024 1:00 PM]
+کانفیگ سرور سایفون 🚀  جمعه 9 شهریور👇
+
+vless://cc70feb5-08d6-486b-ac10-0601d4b9911f@SpeeDTeST.OrG:80?security=none&type=ws&headerType=&path=&host=www.speedtest.net.whiteber.insistom.d6625996.v27.simansanat.ir.#telegram ☂️ DailyV2ry
+vless://cc70feb5-08d6-486b-ac10-0601d4b9911f@104.25.0.86:8080?security=none&type=ws&headerType=&path=&host=WwW.SpeedTest.Net.WhiteBer.InsisTom.D6625996.V25.SiMansaNaT.Ir.#telegram ☂️ DailyV2ry
+vless://cc70feb5-08d6-486b-ac10-0601d4b9911f@SpeeDTeST.OrG:80?security=none&type=ws&headerType=&path=&host=WwW.SpeedTest.Net.WhiteBer.InsisTom.D6625996.V21.SiMansaNaT.Ir.#telegram ☂️ DailyV2ry
+vless://cc70feb5-08d6-486b-ac10-0601d4b9911f@104.25.0.86:8080?security=none&type=ws&headerType=&path=&host=www.speedtest.net.whiteber.insistom.d6625996.v26.simansanat.ir.#telegram ☂️ DailyV2ry
+vless://cc70feb5-08d6-486b-ac10-0601d4b9911f@104.25.0.86:8080?security=none&type=ws&headerType=&path=&host=WwW.SpeedTest.Net.WhiteBer.InsisTom.D6625996.V13.SiMansaNaT.Ir.#telegram ☂️ DailyV2ry
+vless://cc70feb5-08d6-486b-ac10-0601d4b9911f@104.25.0.86:8080?security=none&type=ws&headerType=&path=&host=www.speedtest.net.whiteber.insistom.d6625996.v30.simansanat.ir.#telegram ☂️ DailyV2ry
+vless://cc70feb5-08d6-486b-ac10-0601d4b9911f@104.25.0.86:8080?security=none&type=ws&headerType=&path=&host=WwW.SpeedTest.Net.WhiteBer.InsisTom.D6625996.V15.SiMansaNaT.Ir.#telegram ☂️ DailyV2ry
+vless://cc70feb5-08d6-486b-ac10-0601d4b9911f@104.25.0.86:8080?security=none&type=ws&headerType=&path=&host=WwW.SpeedTest.Net.WhiteBer.InsisTom.D6625996.V11.SiMansaNaT.Ir.#telegram ☂️ DailyV2ry
+vless://cc70feb5-08d6-486b-ac10-0601d4b9911f@SpeeDTeST.OrG:80?security=none&type=ws&headerType=&path=&host=WwW.SpeedTest.Net.WhiteBer.InsisTom.D6625996.V11.SiMansaNaT.Ir.#telegram ☂️ DailyV2ry
+vless://cc70feb5-08d6-486b-ac10-0601d4b9911f@SpeeDTeST.OrG:80?security=none&type=ws&headerType=&path=&host=www.speedtest.net.whiteber.insistom.d6625996.v29.simansanat.ir.#telegram ☂️ DailyV2ry
+vless://cc70feb5-08d6-486b-ac10-0601d4b9911f@SpeeDTeST.OrG:80?security=none&type=ws&headerType=&path=&host=WwW.SpeedTest.Net.WhiteBer.InsisTom.D6625996.V17.SiMansaNaT.Ir.#telegram ☂️ DailyV2ry
+vless://cc70feb5-08d6-486b-ac10-0601d4b9911f@104.25.0.86:8080?security=none&type=ws&headerType=&path=&host=www.speedtest.net.whiteber.insistom.d6625996.v28.simansanat.ir.#telegram ☂️ DailyV2ry
+vless://cc70feb5-08d6-486b-ac10-0601d4b9911f@104.25.0.86:8080?security=none&type=ws&headerType=&path=&host=WwW.SpeedTest.Net.WhiteBer.InsisTom.D6625996.V14.SiMansaNaT.Ir.#telegram ☂️ DailyV2ry
+vless://cc70feb5-08d6-486b-ac10-0601d4b9911f@SpeeDTeST.OrG:80?security=none&type=ws&headerType=&path=&host=WwW.SpeedTest.Net.WhiteBer.InsisTom.D6625996.V20.SiMansaNaT.Ir.#telegram ☂️ DailyV2ry
+vless://cc70feb5-08d6-486b-ac10-0601d4b9911f@104.25.0.86:8080?security=none&type=ws&headerType=&path=&host=WwW.SpeedTest.Net.WhiteBer.InsisTom.D6625996.V02.SiMansaNaT.Ir.#telegram ☂️ DailyV2ry
+vless://cc70feb5-08d6-486b-ac10-0601d4b9911f@104.25.0.86:8080?security=none&type=ws&headerType=&path=&host=www.speedtest.net.whiteber.insistom.d6625996.v27.simansanat.ir.#telegram ☂️ DailyV2ry
+vless://cc70feb5-08d6-486b-ac10-0601d4b9911f@104.25.0.86:8080?security=none&type=ws&headerType=&path=&host=www.speedtest.net.whiteber.insistom.d6625996.v29.simansanat.ir.#telegram ☂️ DailyV2ry
+vless://cc70feb5-08d6-486b-ac10-0601d4b9911f@104.25.0.86:8080?security=none&type=ws&headerType=&path=&host=WwW.SpeedTest.Net.WhiteBer.InsisTom.D6625996.V07.SiMansaNaT.Ir.#telegram ☂️ DailyV2ry
+vless://cc70feb5-08d6-486b-ac10-0601d4b9911f@104.25.0.86:8080?security=none&type=ws&headerType=&path=&host=WwW.SpeedTest.Net.WhiteBer.InsisTom.D6625996.V05.SiMansaNaT.Ir.#telegram ☂️ DailyV2ry
+vless://cc70feb5-08d6-486b-ac10-0601d4b9911f@SpeeDTeST.OrG:80?security=none&type=ws&headerType=&path=&host=WwW.SpeedTest.Net.WhiteBer.InsisTom.D6625996.V05.SiMansaNaT.Ir.#telegram ☂️ DailyV2ry
 
 
-vless://b7452273-5027-43ae-8eeb-d1979a095f04@fine.rohidden.com:22111?encryption=none&security=none&fp=android&type=tcp&headerType=http#PL%F0%9F%87%B5%F0%9F%87%B1
+Daily V2ry (https://t.me/DailyV2ry)
+#VPN
 
-vless://b7452273-5027-43ae-8eeb-d1979a095f04@buff.rohidden.com:25631?encryption=none&security=none&fp=android&type=tcp&headerType=http#US%F0%9F%87%BA%F0%9F%87%B8
+Daily V2ray, [8/30/2024 5:00 PM]
+کانفیگ سرور سایفون 🚀  جمعه 9 شهریور👇
+
+vless://cc70feb5-08d6-486b-ac10-0601d4b9911f@SpeeDTeST.OrG:80?security=none&type=ws&headerType=&path=&host=WwW.SpeedTest.Net.WhiteBer.InsisTom.D6625996.V19.SiMansaNaT.Ir.#telegram ☂️ DailyV2ry
+vless://cc70feb5-08d6-486b-ac10-0601d4b9911f@104.25.0.86:8080?security=none&type=ws&headerType=&path=&host=WwW.SpeedTest.Net.WhiteBer.InsisTom.D6625996.V08.SiMansaNaT.Ir.#telegram ☂️ DailyV2ry
+vless://cc70feb5-08d6-486b-ac10-0601d4b9911f@SpeeDTeST.OrG:80?security=none&type=ws&headerType=&path=&host=WwW.SpeedTest.Net.WhiteBer.InsisTom.D6625996.V15.SiMansaNaT.Ir.#telegram ☂️ DailyV2ry
+vless://cc70feb5-08d6-486b-ac10-0601d4b9911f@104.25.0.86:8080?security=none&type=ws&headerType=&path=&host=WwW.SpeedTest.Net.WhiteBer.InsisTom.D6625996.V07.SiMansaNaT.Ir.#telegram ☂️ DailyV2ry
+vless://cc70feb5-08d6-486b-ac10-0601d4b9911f@SpeeDTeST.OrG:80?security=none&type=ws&headerType=&path=&host=WwW.SpeedTest.Net.WhiteBer.InsisTom.D6625996.V01.SiMansaNaT.Ir.#telegram ☂️ DailyV2ry
+vless://cc70feb5-08d6-486b-ac10-0601d4b9911f@SpeeDTeST.OrG:80?security=none&type=ws&headerType=&path=&host=WwW.SpeedTest.Net.WhiteBer.InsisTom.D6625996.V10.SiMansaNaT.Ir.#telegram ☂️ DailyV2ry
+vless://cc70feb5-08d6-486b-ac10-0601d4b9911f@SpeeDTeST.OrG:80?security=none&type=ws&headerType=&path=&host=WwW.SpeedTest.Net.WhiteBer.InsisTom.D6625996.V25.SiMansaNaT.Ir.#telegram ☂️ DailyV2ry
+vless://cc70feb5-08d6-486b-ac10-0601d4b9911f@104.25.0.86:8080?security=none&type=ws&headerType=&path=&host=WwW.SpeedTest.Net.WhiteBer.InsisTom.D6625996.V02.SiMansaNaT.Ir.#telegram ☂️ DailyV2ry
+vless://cc70feb5-08d6-486b-ac10-0601d4b9911f@SpeeDTeST.OrG:80?security=none&type=ws&headerType=&path=&host=WwW.SpeedTest.Net.WhiteBer.InsisTom.D6625996.V04.SiMansaNaT.Ir.#telegram ☂️ DailyV2ry
+vless://cc70feb5-08d6-486b-ac10-0601d4b9911f@SpeeDTeST.OrG:80?security=none&type=ws&headerType=&path=&host=WwW.SpeedTest.Net.WhiteBer.InsisTom.D6625996.V02.SiMansaNaT.Ir.#telegram ☂️ DailyV2ry
+vless://cc70feb5-08d6-486b-ac10-0601d4b9911f@SpeeDTeST.OrG:80?security=none&type=ws&headerType=&path=&host=www.speedtest.net.whiteber.insistom.d6625996.v27.simansanat.ir.#telegram ☂️ DailyV2ry
+vless://cc70feb5-08d6-486b-ac10-0601d4b9911f@SpeeDTeST.OrG:80?security=none&type=ws&headerType=&path=&host=www.speedtest.net.whiteber.insistom.d6625996.v29.simansanat.ir.#telegram ☂️ DailyV2ry
+vless://cc70feb5-08d6-486b-ac10-0601d4b9911f@SpeeDTeST.OrG:80?security=none&type=ws&headerType=&path=&host=WwW.SpeedTest.Net.WhiteBer.InsisTom.D6625996.V09.SiMansaNaT.Ir.#telegram ☂️ DailyV2ry
+vless://cc70feb5-08d6-486b-ac10-0601d4b9911f@SpeeDTeST.OrG:80?security=none&type=ws&headerType=&path=&host=WwW.SpeedTest.Net.WhiteBer.InsisTom.D6625996.V06.SiMansaNaT.Ir.#telegram ☂️ DailyV2ry
+vless://cc70feb5-08d6-486b-ac10-0601d4b9911f@104.25.0.86:8080?security=none&type=ws&headerType=&path=&host=WwW.SpeedTest.Net.WhiteBer.InsisTom.D6625996.V21.SiMansaNaT.Ir.#telegram ☂️ DailyV2ry
+vless://cc70feb5-08d6-486b-ac10-0601d4b9911f@104.25.0.86:8080?security=none&type=ws&headerType=&path=&host=WwW.SpeedTest.Net.WhiteBer.InsisTom.D6625996.V24.SiMansaNaT.Ir.#telegram ☂️ DailyV2ry
+vless://cc70feb5-08d6-486b-ac10-0601d4b9911f@104.25.0.86:8080?security=none&type=ws&headerType=&path=&host=www.speedtest.net.whiteber.insistom.d6625996.v30.simansanat.ir.#telegram ☂️ DailyV2ry
+vless://cc70feb5-08d6-486b-ac10-0601d4b9911f@104.25.0.86:8080?security=none&type=ws&headerType=&path=&host=WwW.SpeedTest.Net.WhiteBer.InsisTom.D6625996.V23.SiMansaNaT.Ir.#telegram ☂️ DailyV2ry
+vless://cc70feb5-08d6-486b-ac10-0601d4b9911f@104.25.0.86:8080?security=none&type=ws&headerType=&path=&host=www.speedtest.net.whiteber.insistom.d6625996.v29.simansanat.ir.#telegram ☂️ DailyV2ry
+vless://cc70feb5-08d6-486b-ac10-0601d4b9911f@104.25.0.86:8080?security=none&type=ws&headerType=&path=&host=www.speedtest.net.whiteber.insistom.d6625996.v27.simansanat.ir.#telegram ☂️ DailyV2ry
 
 
-vless://cd84665b-4bce-4082-9f0b-b1c1e6040504@gb.v2s.shop:42326?security=none&headerType=http&type=tcp&host=v2rs42326is.divarcdn.com#UK%F0%9F%87%AC%F0%9F%87%A7
+Daily V2ry (https://t.me/DailyV2ry)
+#VPN
+
+Daily V2ray, [8/30/2024 7:00 PM]
+کانفیگ سرور سایفون 🚀  جمعه 9 شهریور👇
+
+vless://cc70feb5-08d6-486b-ac10-0601d4b9911f@104.25.0.86:8080?security=none&type=ws&headerType=&path=&host=WwW.SpeedTest.Net.WhiteBer.InsisTom.D6625996.V04.SiMansaNaT.Ir.#telegram ☂️ DailyV2ry
+vless://cc70feb5-08d6-486b-ac10-0601d4b9911f@SpeeDTeST.OrG:80?security=none&type=ws&headerType=&path=&host=www.speedtest.net.whiteber.insistom.d6625996.v28.simansanat.ir.#telegram ☂️ DailyV2ry
+vless://cc70feb5-08d6-486b-ac10-0601d4b9911f@104.25.0.86:8080?security=none&type=ws&headerType=&path=&host=WwW.SpeedTest.Net.WhiteBer.InsisTom.D6625996.V05.SiMansaNaT.Ir.#telegram ☂️ DailyV2ry
+vless://cc70feb5-08d6-486b-ac10-0601d4b9911f@SpeeDTeST.OrG:80?security=none&type=ws&headerType=&path=&host=WwW.SpeedTest.Net.WhiteBer.InsisTom.D6625996.V16.SiMansaNaT.Ir.#telegram ☂️ DailyV2ry
+vless://cc70feb5-08d6-486b-ac10-0601d4b9911f@SpeeDTeST.OrG:80?security=none&type=ws&headerType=&path=&host=WwW.SpeedTest.Net.WhiteBer.InsisTom.D6625996.V07.SiMansaNaT.Ir.#telegram ☂️ DailyV2ry
+vless://cc70feb5-08d6-486b-ac10-0601d4b9911f@104.25.0.86:8080?security=none&type=ws&headerType=&path=&host=WwW.SpeedTest.Net.WhiteBer.InsisTom.D6625996.V11.SiMansaNaT.Ir.#telegram ☂️ DailyV2ry
+vless://cc70feb5-08d6-486b-ac10-0601d4b9911f@104.25.0.86:8080?security=none&type=ws&headerType=&path=&host=WwW.SpeedTest.Net.WhiteBer.InsisTom.D6625996.V07.SiMansaNaT.Ir.#telegram ☂️ DailyV2ry
+vless://cc70feb5-08d6-486b-ac10-0601d4b9911f@104.25.0.86:8080?security=none&type=ws&headerType=&path=&host=WwW.SpeedTest.Net.WhiteBer.InsisTom.D6625996.V08.SiMansaNaT.Ir.#telegram ☂️ DailyV2ry
+vless://cc70feb5-08d6-486b-ac10-0601d4b9911f@SpeeDTeST.OrG:80?security=none&type=ws&headerType=&path=&host=WwW.SpeedTest.Net.WhiteBer.InsisTom.D6625996.V06.SiMansaNaT.Ir.#telegram ☂️ DailyV2ry
+vless://cc70feb5-08d6-486b-ac10-0601d4b9911f@SpeeDTeST.OrG:80?security=none&type=ws&headerType=&path=&host=WwW.SpeedTest.Net.WhiteBer.InsisTom.D6625996.V12.SiMansaNaT.Ir.#telegram ☂️ DailyV2ry
+vless://cc70feb5-08d6-486b-ac10-0601d4b9911f@SpeeDTeST.OrG:80?security=none&type=ws&headerType=&path=&host=WwW.SpeedTest.Net.WhiteBer.InsisTom.D6625996.V09.SiMansaNaT.Ir.#telegram ☂️ DailyV2ry
+vless://cc70feb5-08d6-486b-ac10-0601d4b9911f@SpeeDTeST.OrG:80?security=none&type=ws&headerType=&path=&host=WwW.SpeedTest.Net.WhiteBer.InsisTom.D6625996.V17.SiMansaNaT.Ir.#telegram ☂️ DailyV2ry
+vless://cc70feb5-08d6-486b-ac10-0601d4b9911f@104.25.0.86:8080?security=none&type=ws&headerType=&path=&host=WwW.SpeedTest.Net.WhiteBer.InsisTom.D6625996.V24.SiMansaNaT.Ir.#telegram ☂️ DailyV2ry
+vless://cc70feb5-08d6-486b-ac10-0601d4b9911f@SpeeDTeST.OrG:80?security=none&type=ws&headerType=&path=&host=www.speedtest.net.whiteber.insistom.d6625996.v30.simansanat.ir.#telegram ☂️ DailyV2ry
+vless://cc70feb5-08d6-486b-ac10-0601d4b9911f@SpeeDTeST.OrG:80?security=none&type=ws&headerType=&path=&host=WwW.SpeedTest.Net.WhiteBer.InsisTom.D6625996.V08.SiMansaNaT.Ir.#telegram ☂️ DailyV2ry
+vless://cc70feb5-08d6-486b-ac10-0601d4b9911f@SpeeDTeST.OrG:80?security=none&type=ws&headerType=&path=&host=WwW.SpeedTest.Net.WhiteBer.InsisTom.D6625996.V22.SiMansaNaT.Ir.#telegram ☂️ DailyV2ry
+vless://cc70feb5-08d6-486b-ac10-0601d4b9911f@104.25.0.86:8080?security=none&type=ws&headerType=&path=&host=WwW.SpeedTest.Net.WhiteBer.InsisTom.D6625996.V22.SiMansaNaT.Ir.#telegram ☂️ DailyV2ry
+vless://cc70feb5-08d6-486b-ac10-0601d4b9911f@104.25.0.86:8080?security=none&type=ws&headerType=&path=&host=www.speedtest.net.whiteber.insistom.d6625996.v26.simansanat.ir.#telegram ☂️ DailyV2ry
+vless://cc70feb5-08d6-486b-ac10-0601d4b9911f@SpeeDTeST.OrG:80?security=none&type=ws&headerType=&path=&host=WwW.SpeedTest.Net.WhiteBer.InsisTom.D6625996.V05.SiMansaNaT.Ir.#telegram ☂️ DailyV2ry
+vless://cc70feb5-08d6-486b-ac10-0601d4b9911f@SpeeDTeST.OrG:80?security=none&type=ws&headerType=&path=&host=www.speedtest.net.whiteber.insistom.d6625996.v29.simansanat.ir.#telegram ☂️ DailyV2ry
+
+
+Daily V2ry (https://t.me/DailyV2ry)
+#VPN
