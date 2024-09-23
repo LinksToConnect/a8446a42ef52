@@ -1,20 +1,6 @@
-vless://cd84665b-4bce-4082-9f0b-b1c1e6040504@leicester.v2rs.online:42326?security=none&encryption=none&host=v2rs42326is.divarcdn.com&headerType=http&type=tcp#UK%F0%9F%87%AC%F0%9F%87%A7
--------++++++++++-------------------+++++++++++++---------+++
-
-----++++++-------+++++++------------+++++++++++++---------+++
-
-vless://89b3cbba-e6ac-485a-9481-976a0415eab9@104.18.173.140:443?encryption=none&security=tls&sni=LIvelyNIGt.Pages.dev&alpn=http%2F1.1&fp=randomized&type=ws&host=lIVELynIGt.PagES.dEv&path=%2F0Ghwkmu3oaIwoocG#C1
-vless://89b3cbba-e6ac-485a-9481-976a0415eab9@livelynigt.pages.dev:443?encryption=none&security=tls&sni=liVelYNIgT.PaGes.DEv&alpn=http%2F1.1&fp=randomized&type=ws&host=lIVELYNIGt.PAGES.DeV&path=%2F47pVFMolJKoxfaMP#D1
-vless://89b3cbba-e6ac-485a-9481-976a0415eab9@www.speedtest.net:443?encryption=none&security=tls&sni=LIveLynIgT.PAGEs.dEv&alpn=http%2F1.1&fp=randomized&type=ws&host=LIveLYNIGT.pAges.dEV&path=%2FLBr2agcriSldEJ6Y#D2
-vless://89b3cbba-e6ac-485a-9481-976a0415eab9@172.66.44.123:443?encryption=none&security=tls&sni=LIvelYnIGT.PaGeS.dEV&alpn=http%2F1.1&fp=randomized&type=ws&host=LiVELYNiGT.paGes.DEV&path=%2FdaD2P2Y2Oz7UCE1n#V41
-vless://89b3cbba-e6ac-485a-9481-976a0415eab9@172.66.47.133:443?encryption=none&security=tls&sni=LiVElYNIGt.PAgES.DeV&alpn=http%2F1.1&fp=randomized&type=ws&host=lIveLYniGT.PageS.Dev&path=%2F6rGtAJiXEvNmPmD7#V42
-vless://89b3cbba-e6ac-485a-9481-976a0415eab9@[2606:4700:310c::ac42:2c7b]:443?encryption=none&security=tls&sni=LiVelYNIgt.pAgeS.DEv&alpn=http%2F1.1&fp=randomized&type=ws&host=livelynIgT.pAGES.DeV&path=%2FIEXoTFfh5ijO8pX1#V61
-vless://89b3cbba-e6ac-485a-9481-976a0415eab9@[2606:4700:310c::ac42:2f85]:443?encryption=none&security=tls&sni=liVElyNIgt.pAGES.DEv&alpn=http%2F1.1&fp=randomized&type=ws&host=LiVELyNiGt.PaGEs.deV&path=%2FEltzzRdzEx1yJUGn#V62
-
---++++-----+++++++-------+++++++++--------------+++++++++-----
 [  
      {
-        "remarks": "💦 BPB Frag - Best Ping 💥",
+        "remarks": "Best Ping 💥",
         "log": {
             "loglevel": "warning"
         },
@@ -487,7 +473,7 @@ vless://89b3cbba-e6ac-485a-9481-976a0415eab9@[2606:4700:310c::ac42:2f85]:443?enc
         "stats": {}
     },
     {
-        "remarks": "💦 BPB Frag - Best Fragment 😎",
+        "remarks": "Best Fragment 😎",
         "log": {
             "loglevel": "warning"
         },
@@ -924,7 +910,7 @@ vless://89b3cbba-e6ac-485a-9481-976a0415eab9@[2606:4700:310c::ac42:2f85]:443?enc
         "stats": {}
     },
     {
-        "remarks": "💦 BPB Frag - WorkerLess ⭐",
+        "remarks": "WorkerLess ⭐",
         "log": {
             "loglevel": "warning"
         },
@@ -1111,3 +1097,21 @@ vless://89b3cbba-e6ac-485a-9481-976a0415eab9@[2606:4700:310c::ac42:2f85]:443?enc
         "stats": {}
     }
 ]
+
+
+--**********--------------*************-----------***********----------*
+vless://cd84665b-4bce-4082-9f0b-b1c1e6040504@leicester.v2rs.online:42326?security=none&encryption=none&host=v2rs42326is.divarcdn.com&headerType=http&type=tcp#UK%F0%9F%87%AC%F0%9F%87%A7
+-------++++++++++-------------------+++++++++++++---------+++
+
+----++++++-------+++++++------------+++++++++++++---------+++
+
+vless://89b3cbba-e6ac-485a-9481-976a0415eab9@104.18.173.140:443?encryption=none&security=tls&sni=LIvelyNIGt.Pages.dev&alpn=http%2F1.1&fp=randomized&type=ws&host=lIVELynIGt.PagES.dEv&path=%2F0Ghwkmu3oaIwoocG#C1
+vless://89b3cbba-e6ac-485a-9481-976a0415eab9@livelynigt.pages.dev:443?encryption=none&security=tls&sni=liVelYNIgT.PaGes.DEv&alpn=http%2F1.1&fp=randomized&type=ws&host=lIVELYNIGt.PAGES.DeV&path=%2F47pVFMolJKoxfaMP#D1
+vless://89b3cbba-e6ac-485a-9481-976a0415eab9@www.speedtest.net:443?encryption=none&security=tls&sni=LIveLynIgT.PAGEs.dEv&alpn=http%2F1.1&fp=randomized&type=ws&host=LIveLYNIGT.pAges.dEV&path=%2FLBr2agcriSldEJ6Y#D2
+vless://89b3cbba-e6ac-485a-9481-976a0415eab9@172.66.44.123:443?encryption=none&security=tls&sni=LIvelYnIGT.PaGeS.dEV&alpn=http%2F1.1&fp=randomized&type=ws&host=LiVELYNiGT.paGes.DEV&path=%2FdaD2P2Y2Oz7UCE1n#V41
+vless://89b3cbba-e6ac-485a-9481-976a0415eab9@172.66.47.133:443?encryption=none&security=tls&sni=LiVElYNIGt.PAgES.DeV&alpn=http%2F1.1&fp=randomized&type=ws&host=lIveLYniGT.PageS.Dev&path=%2F6rGtAJiXEvNmPmD7#V42
+vless://89b3cbba-e6ac-485a-9481-976a0415eab9@[2606:4700:310c::ac42:2c7b]:443?encryption=none&security=tls&sni=LiVelYNIgt.pAgeS.DEv&alpn=http%2F1.1&fp=randomized&type=ws&host=livelynIgT.pAGES.DeV&path=%2FIEXoTFfh5ijO8pX1#V61
+vless://89b3cbba-e6ac-485a-9481-976a0415eab9@[2606:4700:310c::ac42:2f85]:443?encryption=none&security=tls&sni=liVElyNIgt.pAGES.DEv&alpn=http%2F1.1&fp=randomized&type=ws&host=LiVELyNiGt.PaGEs.deV&path=%2FEltzzRdzEx1yJUGn#V62
+
+--++++-----+++++++-------+++++++++--------------+++++++++-----
+
