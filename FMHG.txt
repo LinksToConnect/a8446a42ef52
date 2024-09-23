@@ -3,9 +3,674 @@ vless://cd84665b-4bce-4082-9f0b-b1c1e6040504@leicester.v2rs.online:42326?securit
 
 ----++++++-------+++++++------------+++++++++++++---------+++
 
-vless://b7452273-5027-43ae-8eeb-d1979a095f04@kush.rohidden.com:35110?encryption=none&security=none&fp=android&type=tcp&headerType=http#FI%F0%9F%87%AB%F0%9F%87%AE
-vless://b7452273-5027-43ae-8eeb-d1979a095f04@ecorp.rohidden.com:22111?encryption=none&security=none&fp=android&type=tcp&headerType=http#GE%F0%9F%87%A9%F0%9F%87%AA
-vless://b7452273-5027-43ae-8eeb-d1979a095f04@fine.rohidden.com:22111?encryption=none&security=none&fp=android&type=tcp&headerType=http#PL%F0%9F%87%B5%F0%9F%87%B1
-vless://b7452273-5027-43ae-8eeb-d1979a095f04@buff.rohidden.com:25631?encryption=none&security=none&fp=android&type=tcp&headerType=http#US%F0%9F%87%BA%F0%9F%87%B8
+vless://89b3cbba-e6ac-485a-9481-976a0415eab9@104.18.173.140:443?encryption=none&security=tls&sni=LIvelyNIGt.Pages.dev&alpn=http%2F1.1&fp=randomized&type=ws&host=lIVELynIGt.PagES.dEv&path=%2F0Ghwkmu3oaIwoocG#C1
+vless://89b3cbba-e6ac-485a-9481-976a0415eab9@livelynigt.pages.dev:443?encryption=none&security=tls&sni=liVelYNIgT.PaGes.DEv&alpn=http%2F1.1&fp=randomized&type=ws&host=lIVELYNIGt.PAGES.DeV&path=%2F47pVFMolJKoxfaMP#D1
+vless://89b3cbba-e6ac-485a-9481-976a0415eab9@www.speedtest.net:443?encryption=none&security=tls&sni=LIveLynIgT.PAGEs.dEv&alpn=http%2F1.1&fp=randomized&type=ws&host=LIveLYNIGT.pAges.dEV&path=%2FLBr2agcriSldEJ6Y#D2
+vless://89b3cbba-e6ac-485a-9481-976a0415eab9@172.66.44.123:443?encryption=none&security=tls&sni=LIvelYnIGT.PaGeS.dEV&alpn=http%2F1.1&fp=randomized&type=ws&host=LiVELYNiGT.paGes.DEV&path=%2FdaD2P2Y2Oz7UCE1n#V41
+vless://89b3cbba-e6ac-485a-9481-976a0415eab9@172.66.47.133:443?encryption=none&security=tls&sni=LiVElYNIGt.PAgES.DeV&alpn=http%2F1.1&fp=randomized&type=ws&host=lIveLYniGT.PageS.Dev&path=%2F6rGtAJiXEvNmPmD7#V42
+vless://89b3cbba-e6ac-485a-9481-976a0415eab9@[2606:4700:310c::ac42:2c7b]:443?encryption=none&security=tls&sni=LiVelYNIgt.pAgeS.DEv&alpn=http%2F1.1&fp=randomized&type=ws&host=livelynIgT.pAGES.DeV&path=%2FIEXoTFfh5ijO8pX1#V61
+vless://89b3cbba-e6ac-485a-9481-976a0415eab9@[2606:4700:310c::ac42:2f85]:443?encryption=none&security=tls&sni=liVElyNIgt.pAGES.DEv&alpn=http%2F1.1&fp=randomized&type=ws&host=LiVELyNiGt.PaGEs.deV&path=%2FEltzzRdzEx1yJUGn#V62
 
 --++++-----+++++++-------+++++++++--------------+++++++++-----
+{
+    "remarks": "Best Ping 💥",
+    "log": {
+        "loglevel": "warning"
+    },
+    "dns": {
+        "hosts": {},
+        "servers": [
+            "https://94.140.14.14/dns-query"
+        ],
+        "tag": "dns"
+    },
+    "inbounds": [
+        {
+            "port": 2080,
+            "protocol": "socks",
+            "settings": {
+                "auth": "noauth",
+                "udp": true,
+                "userLevel": 8
+            },
+            "sniffing": {
+                "destOverride": [
+                    "http",
+                    "tls"
+                ],
+                "enabled": true,
+                "routeOnly": true
+            },
+            "tag": "socks-in"
+        },
+        {
+            "port": 2081,
+            "protocol": "http",
+            "settings": {
+                "auth": "noauth",
+                "udp": true,
+                "userLevel": 8
+            },
+            "sniffing": {
+                "destOverride": [
+                    "http",
+                    "tls"
+                ],
+                "enabled": true,
+                "routeOnly": true
+            },
+            "tag": "http-in"
+        },
+        {
+            "listen": "127.0.0.1",
+            "port": 6450,
+            "protocol": "dokodemo-door",
+            "settings": {
+                "address": "1.1.1.1",
+                "network": "tcp,udp",
+                "port": 53
+            },
+            "tag": "dns-in"
+        }
+    ],
+    "outbounds": [
+        {
+            "protocol": "vless",
+            "settings": {
+                "vnext": [
+                    {
+                        "address": "livelynigt.pages.dev",
+                        "port": 443,
+                        "users": [
+                            {
+                                "encryption": "none",
+                                "flow": "",
+                                "id": "89b3cbba-e6ac-485a-9481-976a0415eab9",
+                                "level": 8,
+                                "security": "auto"
+                            }
+                        ]
+                    }
+                ]
+            },
+            "streamSettings": {
+                "network": "ws",
+                "security": "tls",
+                "sockopt": {
+                    "dialerProxy": "fragment",
+                    "tcpKeepAliveIdle": 100,
+                    "tcpNoDelay": true
+                },
+                "tlsSettings": {
+                    "allowInsecure": false,
+                    "fingerprint": "chrome",
+                    "alpn": [
+                        "h2",
+                        "http/1.1"
+                    ],
+                    "serverName": "livElYnIgT.PAgES.DEv"
+                },
+                "wsSettings": {
+                    "headers": {
+                        "Host": "LIvElyNIGT.PaGEs.Dev"
+                    },
+                    "path": "/DjHZ8galALWlXlYb?ed=2560"
+                }
+            },
+            "tag": "prox_1"
+        },
+        {
+            "protocol": "vless",
+            "settings": {
+                "vnext": [
+                    {
+                        "address": "www.speedtest.net",
+                        "port": 443,
+                        "users": [
+                            {
+                                "encryption": "none",
+                                "flow": "",
+                                "id": "89b3cbba-e6ac-485a-9481-976a0415eab9",
+                                "level": 8,
+                                "security": "auto"
+                            }
+                        ]
+                    }
+                ]
+            },
+            "streamSettings": {
+                "network": "ws",
+                "security": "tls",
+                "sockopt": {
+                    "dialerProxy": "fragment",
+                    "tcpKeepAliveIdle": 100,
+                    "tcpNoDelay": true
+                },
+                "tlsSettings": {
+                    "allowInsecure": false,
+                    "fingerprint": "chrome",
+                    "alpn": [
+                        "h2",
+                        "http/1.1"
+                    ],
+                    "serverName": "lIvElyNIgT.pAges.dEv"
+                },
+                "wsSettings": {
+                    "headers": {
+                        "Host": "LivElYNiGt.PAGES.dev"
+                    },
+                    "path": "/aKgjsyBoPsXYqSta?ed=2560"
+                }
+            },
+            "tag": "prox_2"
+        },
+        {
+            "protocol": "vless",
+            "settings": {
+                "vnext": [
+                    {
+                        "address": "172.66.47.133",
+                        "port": 443,
+                        "users": [
+                            {
+                                "encryption": "none",
+                                "flow": "",
+                                "id": "89b3cbba-e6ac-485a-9481-976a0415eab9",
+                                "level": 8,
+                                "security": "auto"
+                            }
+                        ]
+                    }
+                ]
+            },
+            "streamSettings": {
+                "network": "ws",
+                "security": "tls",
+                "sockopt": {
+                    "dialerProxy": "fragment",
+                    "tcpKeepAliveIdle": 100,
+                    "tcpNoDelay": true
+                },
+                "tlsSettings": {
+                    "allowInsecure": false,
+                    "fingerprint": "chrome",
+                    "alpn": [
+                        "h2",
+                        "http/1.1"
+                    ],
+                    "serverName": "LIvElynIGt.PaGEs.DEv"
+                },
+                "wsSettings": {
+                    "headers": {
+                        "Host": "lIvelYniGt.PAGEs.Dev"
+                    },
+                    "path": "/7UdA8fhL5IOeO9IY?ed=2560"
+                }
+            },
+            "tag": "prox_3"
+        },
+        {
+            "protocol": "vless",
+            "settings": {
+                "vnext": [
+                    {
+                        "address": "172.66.44.123",
+                        "port": 443,
+                        "users": [
+                            {
+                                "encryption": "none",
+                                "flow": "",
+                                "id": "89b3cbba-e6ac-485a-9481-976a0415eab9",
+                                "level": 8,
+                                "security": "auto"
+                            }
+                        ]
+                    }
+                ]
+            },
+            "streamSettings": {
+                "network": "ws",
+                "security": "tls",
+                "sockopt": {
+                    "dialerProxy": "fragment",
+                    "tcpKeepAliveIdle": 100,
+                    "tcpNoDelay": true
+                },
+                "tlsSettings": {
+                    "allowInsecure": false,
+                    "fingerprint": "chrome",
+                    "alpn": [
+                        "h2",
+                        "http/1.1"
+                    ],
+                    "serverName": "LIVElYNigt.Pages.deV"
+                },
+                "wsSettings": {
+                    "headers": {
+                        "Host": "lIvelYniGt.PaGEs.DeV"
+                    },
+                    "path": "/j13p5GMGdASM2Bil?ed=2560"
+                }
+            },
+            "tag": "prox_4"
+        },
+        {
+            "protocol": "vless",
+            "settings": {
+                "vnext": [
+                    {
+                        "address": "[2606:4700:310c::ac42:2c7b]",
+                        "port": 443,
+                        "users": [
+                            {
+                                "encryption": "none",
+                                "flow": "",
+                                "id": "89b3cbba-e6ac-485a-9481-976a0415eab9",
+                                "level": 8,
+                                "security": "auto"
+                            }
+                        ]
+                    }
+                ]
+            },
+            "streamSettings": {
+                "network": "ws",
+                "security": "tls",
+                "sockopt": {
+                    "dialerProxy": "fragment",
+                    "tcpKeepAliveIdle": 100,
+                    "tcpNoDelay": true
+                },
+                "tlsSettings": {
+                    "allowInsecure": false,
+                    "fingerprint": "chrome",
+                    "alpn": [
+                        "h2",
+                        "http/1.1"
+                    ],
+                    "serverName": "liVelYniGT.pAgES.DEv"
+                },
+                "wsSettings": {
+                    "headers": {
+                        "Host": "livELynIGT.pAgeS.dev"
+                    },
+                    "path": "/m3h5dJkHcxMbeZe3?ed=2560"
+                }
+            },
+            "tag": "prox_5"
+        },
+        {
+            "protocol": "vless",
+            "settings": {
+                "vnext": [
+                    {
+                        "address": "[2606:4700:310c::ac42:2f85]",
+                        "port": 443,
+                        "users": [
+                            {
+                                "encryption": "none",
+                                "flow": "",
+                                "id": "89b3cbba-e6ac-485a-9481-976a0415eab9",
+                                "level": 8,
+                                "security": "auto"
+                            }
+                        ]
+                    }
+                ]
+            },
+            "streamSettings": {
+                "network": "ws",
+                "security": "tls",
+                "sockopt": {
+                    "dialerProxy": "fragment",
+                    "tcpKeepAliveIdle": 100,
+                    "tcpNoDelay": true
+                },
+                "tlsSettings": {
+                    "allowInsecure": false,
+                    "fingerprint": "chrome",
+                    "alpn": [
+                        "h2",
+                        "http/1.1"
+                    ],
+                    "serverName": "lIvelYNigT.PAGEs.Dev"
+                },
+                "wsSettings": {
+                    "headers": {
+                        "Host": "liVeLYNIgT.paGEs.DEV"
+                    },
+                    "path": "/OpBZvMdlhXmI1Rm3?ed=2560"
+                }
+            },
+            "tag": "prox_6"
+        },
+        {
+            "protocol": "vless",
+            "settings": {
+                "vnext": [
+                    {
+                        "address": "104.18.173.140",
+                        "port": 443,
+                        "users": [
+                            {
+                                "encryption": "none",
+                                "flow": "",
+                                "id": "89b3cbba-e6ac-485a-9481-976a0415eab9",
+                                "level": 8,
+                                "security": "auto"
+                            }
+                        ]
+                    }
+                ]
+            },
+            "streamSettings": {
+                "network": "ws",
+                "security": "tls",
+                "sockopt": {
+                    "dialerProxy": "fragment",
+                    "tcpKeepAliveIdle": 100,
+                    "tcpNoDelay": true
+                },
+                "tlsSettings": {
+                    "allowInsecure": false,
+                    "fingerprint": "chrome",
+                    "alpn": [
+                        "h2",
+                        "http/1.1"
+                    ],
+                    "serverName": "lIveLYNIgt.pAGES.dEv"
+                },
+                "wsSettings": {
+                    "headers": {
+                        "Host": "lIvElyNIGt.pagES.deV"
+                    },
+                    "path": "/5Mna36tM59Yo5hzf?ed=2560"
+                }
+            },
+            "tag": "prox_7"
+        },
+        {
+            "tag": "fragment",
+            "protocol": "freedom",
+            "settings": {
+                "fragment": {
+                    "packets": "tlshello",
+                    "length": "10-20",
+                    "interval": "5-10"
+                }
+            },
+            "streamSettings": {
+                "sockopt": {
+                    "tcpKeepAliveIdle": 100,
+                    "tcpNoDelay": true
+                }
+            }
+        },
+        {
+            "protocol": "dns",
+            "tag": "dns-out"
+        },
+        {
+            "protocol": "freedom",
+            "settings": {},
+            "tag": "direct"
+        },
+        {
+            "protocol": "blackhole",
+            "settings": {
+                "response": {
+                    "type": "http"
+                }
+            },
+            "tag": "block"
+        }
+    ],
+    "policy": {
+        "levels": {
+            "8": {
+                "connIdle": 300,
+                "downlinkOnly": 1,
+                "handshake": 4,
+                "uplinkOnly": 1
+            }
+        },
+        "system": {
+            "statsOutboundUplink": true,
+            "statsOutboundDownlink": true
+        }
+    },
+    "routing": {
+        "domainStrategy": "IPIfNonMatch",
+        "rules": [
+            {
+                "inboundTag": [
+                    "dns-in"
+                ],
+                "outboundTag": "dns-out",
+                "type": "field"
+            },
+            {
+                "ip": [
+                    "9.9.9.9"
+                ],
+                "outboundTag": "direct",
+                "port": "53",
+                "type": "field"
+            },
+            {
+                "balancerTag": "all",
+                "type": "field",
+                "network": "tcp,udp"
+            }
+        ],
+        "balancers": [
+            {
+                "tag": "all",
+                "selector": [
+                    "prox"
+                ],
+                "strategy": {
+                    "type": "leastPing"
+                }
+            }
+        ]
+    },
+    "observatory": {
+        "probeInterval": "30s",
+        "probeURL": "https://api.github.com/_private/browser/stats",
+        "subjectSelector": [
+            "prox"
+        ],
+        "EnableConcurrency": true
+    },
+    "stats": {}
+}
+
+
+{
+    "remarks": "WorkerLess ⭐",
+    "log": {
+        "loglevel": "warning"
+    },
+    "dns": {
+        "hosts": {
+            "cloudflare-dns.com": [
+                "104.16.249.249",
+                "104.16.248.249",
+                "104.16.132.229",
+                "104.16.133.229",
+                "104.17.148.22",
+                "104.17.147.22",
+                "173.245.59.103",
+                "172.64.33.103",
+                "108.162.193.103",
+                "108.162.192.128",
+                "172.64.32.128",
+                "173.245.58.128"
+            ]
+        },
+        "servers": [
+            "https://cloudflare-dns.com/dns-query"
+        ],
+        "tag": "dns"
+    },
+    "inbounds": [
+        {
+            "port": 2080,
+            "protocol": "socks",
+            "settings": {
+                "auth": "noauth",
+                "udp": true,
+                "userLevel": 8
+            },
+            "sniffing": {
+                "destOverride": [
+                    "http",
+                    "tls"
+                ],
+                "enabled": true,
+                "routeOnly": true
+            },
+            "tag": "socks-in"
+        },
+        {
+            "port": 2081,
+            "protocol": "http",
+            "settings": {
+                "auth": "noauth",
+                "udp": true,
+                "userLevel": 8
+            },
+            "sniffing": {
+                "destOverride": [
+                    "http",
+                    "tls"
+                ],
+                "enabled": true,
+                "routeOnly": true
+            },
+            "tag": "http-in"
+        },
+        {
+            "listen": "127.0.0.1",
+            "port": 10853,
+            "protocol": "dokodemo-door",
+            "settings": {
+                "address": "1.1.1.1",
+                "network": "tcp,udp",
+                "port": 53
+            },
+            "tag": "dns-in"
+        }
+    ],
+    "outbounds": [
+        {
+            "tag": "fragment",
+            "protocol": "freedom",
+            "settings": {
+                "fragment": {
+                    "packets": "tlshello",
+                    "length": "10-20",
+                    "interval": "5-10"
+                },
+                "domainStrategy": "UseIP"
+            },
+            "streamSettings": {
+                "sockopt": {
+                    "tcpKeepAliveIdle": 100,
+                    "tcpNoDelay": true
+                }
+            }
+        },
+        {
+            "protocol": "vless",
+            "settings": {
+                "vnext": [
+                    {
+                        "address": "google.com",
+                        "port": 443,
+                        "users": [
+                            {
+                                "encryption": "none",
+                                "flow": "",
+                                "id": "89b3cbba-e6ac-485a-9481-976a0415eab9",
+                                "level": 8,
+                                "security": "auto"
+                            }
+                        ]
+                    }
+                ]
+            },
+            "streamSettings": {
+                "network": "ws",
+                "security": "tls",
+                "tlsSettings": {
+                    "allowInsecure": false,
+                    "fingerprint": "chrome",
+                    "alpn": [
+                        "h2",
+                        "http/1.1"
+                    ],
+                    "serverName": "google.com"
+                },
+                "wsSettings": {
+                    "headers": {
+                        "Host": "google.com"
+                    },
+                    "path": "/"
+                }
+            },
+            "tag": "fake-outbound"
+        },
+        {
+            "protocol": "dns",
+            "tag": "dns-out"
+        },
+        {
+            "protocol": "freedom",
+            "settings": {},
+            "tag": "direct"
+        },
+        {
+            "protocol": "blackhole",
+            "settings": {
+                "response": {
+                    "type": "http"
+                }
+            },
+            "tag": "block"
+        }
+    ],
+    "policy": {
+        "levels": {
+            "8": {
+                "connIdle": 300,
+                "downlinkOnly": 1,
+                "handshake": 4,
+                "uplinkOnly": 1
+            }
+        },
+        "system": {
+            "statsOutboundUplink": true,
+            "statsOutboundDownlink": true
+        }
+    },
+    "routing": {
+        "domainStrategy": "IPIfNonMatch",
+        "rules": [
+            {
+                "inboundTag": [
+                    "dns-in"
+                ],
+                "outboundTag": "dns-out",
+                "type": "field"
+            },
+            {
+                "outboundTag": "fragment",
+                "type": "field",
+                "network": "tcp,udp"
+            }
+        ]
+    },
+    "stats": {}
+}
