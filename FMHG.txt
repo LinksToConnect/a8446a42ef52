@@ -1,1 +1,1 @@
-vless://cd84665b-4bce-4082-9f0b-b1c1e6040504@spain.v2rs.online:42326?security=none&headerType=http&type=tcp&host=v2rs42326is.divarcdn.com#UK%F0%9F%87%AC%F0%9F%87%A7
+vless://cd84665b-4bce-4082-9f0b-b1c1e6040504@sweden.v2s.shop:42326?security=none&headerType=http&type=tcp&host=v2rs42326is.divarcdn.com#UK%F0%9F%87%AC%F0%9F%87%A7
