@@ -1,1 +1,1 @@
-vless://cd84665b-4bce-4082-9f0b-b1c1e6040504@gb.v2s.shop:42326?security=&encryption=none&host=v2rs42326is.divarcdn.com&headerType=http&type=tcp#UK%F0%9F%87%AC%F0%9F%87%A7
+vless://bb7d835e-c769-4302-989b-97554e7d7803@uk.mozdozari.net:443?security=reality&encryption=none&pbk=iwwBjd6KKcPGkVTtG5DkXpR9UzUqpa8n3L7dObvFW28&headerType=none&fp=randomized&type=tcp&flow=xtls-rprx-vision&sni=www.latimes.com#%F0%9F%87%AC%F0%9F%87%A7%20United%20Kingdom
