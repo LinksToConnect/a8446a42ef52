@@ -1,1 +1,7 @@
-vless://437216aa-b4a3-49b3-bbd7-02c6ee62c84a@mz8.cfcpm.sbs:26555?security=none&encryption=none&headerType=http&type=tcp#german
+vless://a5a1c615-27ee-443c-9e5a-4fbc0128698e@ir-2.norton-vip.cfd:2028?security=reality&type=xhttp&headerType=&path=%2FAS&host=&sni=stackoverflow.com&fp=chrome&pbk=g23nq_R9TIMbMIGQHB6gjDNewFzrHXPcj72bTS-RtX8&sid=#%F0%9F%87%AB%F0%9F%87%B7%20France
+
+vless://a5a1c615-27ee-443c-9e5a-4fbc0128698e@ir-3.norton-vip.cfd:9152?security=none&type=tcp&headerType=http&path=%2F&host=testspeed-foreign.tci.irir#%F0%9F%8F%B4%F3%A0%81%A7%F3%A0%81%A2%F3%A0%81%A5%F3%A0%81%AE%F3%A0%81%A7%F3%A0%81%BF%20England
+
+vless://a5a1c615-27ee-443c-9e5a-4fbc0128698e@ir-1.norton-vip.cfd:2000?security=none&type=tcp&headerType=http&path=%2F&host=testspeed-foreign.tci.irir#%F0%9F%87%AB%F0%9F%87%AE%20Finland
+
+vless://a5a1c615-27ee-443c-9e5a-4fbc0128698e@ir-1.norton-vip.cfd:8269?security=none&type=tcp&headerType=http&path=%2F&host=testspeed-foreign.tci.irir#%F0%9F%87%A9%F0%9F%87%AA%20Germany
