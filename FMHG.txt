@@ -1,9 +1,4 @@
-<!DOCTYPE html>
-<html>
-<head>
-  <meta http-equiv="refresh" content="0; url=https://e1c4-795.fl-sub.site:2096/sub/RldWdHNNLUJvdCwxNzQ1Njg5NTU2YfYyqaRqJf" />
-</head>
-<body>
-  <p>If you are not redirected automatically, follow this <a href="https://e1c4-795.fl-sub.site:2096/sub/RldWdHNNLUJvdCwxNzQ1Njg5NTU2YfYyqaRqJf">link</a>.</p>
-</body>
-</html>
+vless://a5a1c615-27ee-443c-9e5a-4fbc0128698e@ir-1.norton-vip.cfd:8269?security=&type=tcp&path=/&headerType=http&host=testspeed-foreign.tci.irir&encryption=none#%F0%9F%87%A9%F0%9F%87%AA%20Germany
+vless://a5a1c615-27ee-443c-9e5a-4fbc0128698e@ir-1.norton-vip.cfd:2000?security=&type=tcp&path=/&headerType=http&host=testspeed-foreign.tci.irir&encryption=none#%F0%9F%87%AB%F0%9F%87%AE%20Finland
+vless://a5a1c615-27ee-443c-9e5a-4fbc0128698e@ir-2.norton-vip.cfd:2028?security=reality&sni=stackoverflow.com&fp=chrome&pbk=g23nq_R9TIMbMIGQHB6gjDNewFzrHXPcj72bTS-RtX8&type=xhttp&encryption=none#%F0%9F%87%AB%F0%9F%87%B7%20France
+vless://a5a1c615-27ee-443c-9e5a-4fbc0128698e@ir-3.norton-vip.cfd:9152?security=&type=tcp&path=/&headerType=http&host=testspeed-foreign.tci.irir&encryption=none#%F0%9F%8F%B4%F3%A0%81%A7%F3%A0%81%A2%F3%A0%81%A5%F3%A0%81%AE%F3%A0%81%A7%F3%A0%81%BF%20England
