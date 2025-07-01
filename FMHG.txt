@@ -1,10 +1,1 @@
-vless://a5a1c615-27ee-443c-9e5a-4fbc0128698e@m-3.web-manage.com.tr:9152?security=&type=tcp&path=/&headerType=http&host=varzesh3.com&encryption=none#%F0%9F%8F%B4%F3%A0%81%A7%F3%A0%81%A2%F3%A0%81%A5%F3%A0%81%AE%F3%A0%81%A7%F3%A0%81%BF%20%E2%80%93%20England
-vless://a5a1c615-27ee-443c-9e5a-4fbc0128698e@vip-85.f-sub.cfd:2000?security=&type=tcp&path=/&headerType=http&host=varzesh3.com&encryption=none#%F0%9F%87%AB%F0%9F%87%AE%20%E2%80%93%20Finland
-vless://a5a1c615-27ee-443c-9e5a-4fbc0128698e@vip-85.f-sub.cfd:8269?security=&type=tcp&path=/&headerType=http&host=varzesh3.com&encryption=none#%F0%9F%87%A9%F0%9F%87%AA%20%E2%80%93%20Germany
-vless://a5a1c615-27ee-443c-9e5a-4fbc0128698e@m-4.web-manage.com.tr:2014?security=&type=tcp&path=/&headerType=http&host=varzesh3.com&encryption=none#%F0%9F%87%AB%F0%9F%87%B7%20%E2%80%93%20France
-vless://a5a1c615-27ee-443c-9e5a-4fbc0128698e@m-5.web-manage.com.tr:2014?security=&type=tcp&path=/&headerType=http&host=varzesh3.com&encryption=none#%F0%9F%87%B3%F0%9F%87%B1%20%E2%80%93%20Netherlands
-vless://a5a1c615-27ee-443c-9e5a-4fbc0128698e@m-6.web-manage.com.tr:2014?security=&type=tcp&path=/&headerType=http&host=varzesh3.com&encryption=none#%F0%9F%87%AC%F0%9F%87%A7%20%E2%80%93%20United%20Kingdom
-vless://a5a1c615-27ee-443c-9e5a-4fbc0128698e@m-7.web-manage.com.tr:2014?security=&type=tcp&path=/&headerType=http&host=varzesh3.com&encryption=none#%F0%9F%87%B9%F0%9F%87%B7%20%E2%80%93%20Turkey
-vless://a5a1c615-27ee-443c-9e5a-4fbc0128698e@m-8.web-manage.com.tr:2014?security=&type=tcp&path=/&headerType=http&host=varzesh3.com&encryption=none#%F0%9F%87%BA%F0%9F%87%B8%20%E2%80%93%20United%20States
-vless://a5a1c615-27ee-443c-9e5a-4fbc0128698e@m-9.web-manage.com.tr:2014?security=&type=tcp&path=/&headerType=http&host=varzesh3.com&encryption=none#%F0%9F%87%B5%F0%9F%87%B1%20%E2%80%93%20Poland
-vless://a5a1c615-27ee-443c-9e5a-4fbc0128698e@m-10.web-manage.com.tr:2014?security=&type=tcp&path=/&headerType=http&host=varzesh3.com&encryption=none#%F0%9F%87%A8%F0%9F%87%A6%20%E2%80%93%20Canada
+vless://5bba65a4-e017-43a1-b557-93e2fca0faf0@qaz96jp2.ifvtw496vdkw96cggpzxpc8.portaloflegendsb.com:16036?security=&type=tcp&headerType=http&host=skyroom.online,igap.net&encryption=none#%F0%9F%87%B3%F0%9F%87%B1%20RnVzoC2ath
