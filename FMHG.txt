@@ -1,1 +1,1 @@
-vless://5bba65a4-e017-43a1-b557-93e2fca0faf0@qaz96jp2.ifvtw496vdkw96cggpzxpc8.portaloflegendsb.com:16036?security=&type=tcp&headerType=http&host=skyroom.online,igap.net&encryption=none#%F0%9F%87%B3%F0%9F%87%B1%20RnVzoC2ath
+vless://5bba65a4-e017-43a1-b557-93e2fca0faf0@cffulaqy.tr-x3emwt7e488evin7d5wk.portaloflegends.net:6310?security=none&type=tcp&path=/&headerType=http&host=skyroom.online,igap.net&encryption=none#%F0%9F%87%B9%F0%9F%87%B7%20Turkey
