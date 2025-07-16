@@ -1,1 +1,3 @@
-vless://5bba65a4-e017-43a1-b557-93e2fca0faf0@cffulaqy.tr-x3emwt7e488evin7d5wk.portaloflegends.net:6310?security=none&type=tcp&path=/&headerType=http&host=skyroom.online,igap.net&encryption=none#%F0%9F%87%B9%F0%9F%87%B7%20Turkey
+ss://YWVzLTI1Ni1nY206ZW1QSklidHcxWTJVaDdpcw%3D%3D@norway.kabus.xyz:40493#Norway%20Domain
+
+ss://YWVzLTI1Ni1nY206ZW1QSklidHcxWTJVaDdpcw%3D%3D@195.190.144.216:40493#Norway%20IP
