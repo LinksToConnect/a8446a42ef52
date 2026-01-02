@@ -1,5 +1,5 @@
-vless://98fb10ca-6c8a-4b20-aa66-85d6cf25bf02@tgju.org:443?encryption=none&security=tls&sni=rapid-panel.com&allowInsecure=true&ech_enabled=true&type=ws&host=rapid-panel.com&path=/connect/ws/&early_data_header_name=Sec-WebSocket-Protocol&packetEncoding=xudp#Irancell 🇳🇱⭐️
-vless://98fb10ca-6c8a-4b20-aa66-85d6cf25bf02@ir.fursaw.xyz:443?encryption=none&security=tls&sni=pkgbuild.org&fp=chrome&type=ws&host=pkgbuild.org&path=/connect/ws/&early_data_header_name=Sec-WebSocket-Protocol&packetEncoding=xudp#Iran 1🇮🇷
-hysteria2://98fb10ca-6c8a-4b20-aa66-85d6cf25bf02@fursaw.xyz:7443?obfs-password=8tN8ickOvd34&security=tls&sni=zara.com&allowInsecure=true#Hamrah Aval 🇳🇱⭐️
-hysteria2://98fb10ca-6c8a-4b20-aa66-85d6cf25bf02@[2001:49f0:d086:c01::108]:7443?obfs-password=8tN8ickOvd34&security=tls&sni=zara.com&allowInsecure=true#IPv6 🇳🇱
-hysteria2://98fb10ca-6c8a-4b20-aa66-85d6cf25bf02@fursaw.xyz:7443?obfs-password=8tN8ickOvd34&security=tls&sni=zara.com&allowInsecure=true#Pro 🇳🇱
+vless://1dc06c93-3eeb-47c2-8a2f-6d1cdb031773@ir.fursaw.xyz:443?encryption=none&security=tls&sni=pkgbuild.org&fp=chrome&type=ws&host=pkgbuild.org&path=/connect/ws/&early_data_header_name=Sec-WebSocket-Protocol&packetEncoding=xudp#Iran%201%F0%9F%87%AE%F0%9F%87%B7
+vless://1dc06c93-3eeb-47c2-8a2f-6d1cdb031773@tgju.org:443?encryption=none&security=tls&sni=rapid-panel.com&allowInsecure=true&ech_enabled=true&type=ws&host=rapid-panel.com&path=/connect/ws/&early_data_header_name=Sec-WebSocket-Protocol&packetEncoding=xudp#Irancell%20%F0%9F%87%B3%F0%9F%87%B1%E2%AD%90%EF%B8%8F
+hysteria2://1dc06c93-3eeb-47c2-8a2f-6d1cdb031773@fursaw.xyz:7443?obfs-password=8tN8ickOvd34&security=tls&sni=zara.com&allowInsecure=true#Hamrah%20Aval%20%F0%9F%87%B3%F0%9F%87%B1%E2%AD%90%EF%B8%8F
+hysteria2://1dc06c93-3eeb-47c2-8a2f-6d1cdb031773@[2001:49f0:d086:c01::102]:7443?obfs-password=8tN8ickOvd34&security=tls&sni=zara.com&allowInsecure=true#IPv6%20%F0%9F%87%B3%F0%9F%87%B1
+hysteria2://1dc06c93-3eeb-47c2-8a2f-6d1cdb031773@fursaw.xyz:7443?obfs-password=8tN8ickOvd34&security=tls&sni=zara.com&allowInsecure=true#Pro%20%F0%9F%87%B3%F0%9F%87%B1
